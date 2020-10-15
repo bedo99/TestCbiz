@@ -239,6 +239,7 @@ ul.product-checklist li.check:before {
   .slide-container {
     margin: auto;
     width: 600px;
+    height: 100%;
     text-align: center;
   }
 
