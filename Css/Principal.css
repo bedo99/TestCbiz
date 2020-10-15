@@ -327,6 +327,14 @@ ul.product-checklist li.check:before {
 }
 @media only screen and (max-width: 640px) {
 
+  .Cbiz-card__image img {
+    width: 150px;
+    position: absolute;
+    top: -50px;
+    left: -80px;
+    z-index: 2;
+  }
+
   .carousel .flickity-prev-next-button {
     display: block;
   }
