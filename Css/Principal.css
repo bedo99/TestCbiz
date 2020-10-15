@@ -1,6 +1,10 @@
 .swiper-container{
   width: 100%;
   height: 100%;
+  
+}
+
+.swiper-wrapper{
   background-color: #d62c1a;
 }
 
