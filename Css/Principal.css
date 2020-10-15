@@ -3,6 +3,11 @@
   height: 100%;
 }
 
+.product-checklist .text-black{
+  color: black;
+  font-size: 23px;
+}
+
 .slide-container {
   margin: auto;
   width: 600px;
@@ -226,6 +231,18 @@ ul.product-checklist li.check:before {
     height: 100%;
   }
 
+  .product-checklist .text-black{
+    color: black;
+    font-size: 23px;
+  }
+  
+  .slide-container {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+  }
+
+
   .anyClass {
     width: 80%;
     height:270px;
@@ -397,15 +414,3 @@ ul.product-checklist li.check:before {
     line-height: 20px;
   }
 }
-
-
-
-.product-checklist .text-black{
-    color: black;
-    font-size: 23px;
-}
-
-
-
-
-
