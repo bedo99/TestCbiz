@@ -228,7 +228,11 @@ ul.product-checklist li.check:before {
 
 @media only screen and (max-width: 850px) {
 
- 
+  .swiper-container{
+    width: 100%;
+    height: 100%;
+  }
+  
   .product-checklist .text-black{
     color: black;
     font-size: 23px;
@@ -247,10 +251,7 @@ ul.product-checklist li.check:before {
     overflow-y: scroll;
   }
 
-  .swiper-container{
-    width: 100%;
-    height: 100%;
-  }
+  
 
   .anyClass {
     width: 80%;
