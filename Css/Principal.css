@@ -239,7 +239,7 @@ ul.product-checklist li.check:before {
   .slide-container {
     margin: auto;
     width: 600px;
-    height: 100%;
+    height: 70%;
     text-align: center;
   }
 
@@ -351,6 +351,13 @@ ul.product-checklist li.check:before {
   .swiper-container{
     width: 100%;
     height: 100%;
+  }
+
+  .slide-container {
+    margin: auto;
+    width: 600px;
+    height: 70%;
+    text-align: center;
   }
 
 
