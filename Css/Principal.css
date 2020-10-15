@@ -231,18 +231,17 @@ ul.product-checklist li.check:before {
     height: 100%;
   }
 
+  .slide-container {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+  }
+
   .product-checklist .text-black{
     color: black;
     font-size: 23px;
   }
   
-  .slide-container {
-    margin: auto;
-    width: 600px;
-    height: auto;
-    text-align: center;
-  }
-
 
   .anyClass {
     width: 80%;
@@ -354,10 +353,9 @@ ul.product-checklist li.check:before {
   }
 
   .slide-container {
-    margin: auto;
-    width: 600px;
-    height: auto;
-    text-align: center;
+  margin: auto;
+  width: 600px;
+  text-align: center;
   }
 
 
